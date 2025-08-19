@@ -1,4 +1,4 @@
-package com.stefany.literalura;
+package com.stefany.literalura.service;
 
 import java.io.IOException;
 import java.net.URI;
